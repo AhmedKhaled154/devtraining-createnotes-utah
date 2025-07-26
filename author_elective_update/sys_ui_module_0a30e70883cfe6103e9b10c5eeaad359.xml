@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Note">ef4e538483cfe6103e9b10c5eeaad3a8</application>
+        <filter/>
+        <name>Reference to User (sys_user) tables</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_createnotes.note_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-25 16:17:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0a30e70883cfe6103e9b10c5eeaad359</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reference to User (sys_user) tables</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sys_ui_module_0a30e70883cfe6103e9b10c5eeaad359</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-25 16:17:58</sys_updated_on>
+        <table>x_snc_createnotes_reference_to_user__sys_user__table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>5797139fdb6a755438f1172913961957</instance_id>
+        <instance_name>dev220812</instance_name>
+        <name>sys_ui_module_0a30e70883cfe6103e9b10c5eeaad359</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Note">ef4e538483cfe6103e9b10c5eeaad3a8</application><filter/><name>Reference to User (sys_user) tables</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_snc_createnotes.note_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-25 16:17:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0a30e70883cfe6103e9b10c5eeaad359</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Reference to User (sys_user) tables</sys_name><sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package><sys_policy/><sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope><sys_update_name>sys_ui_module_0a30e70883cfe6103e9b10c5eeaad359</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-25 16:17:58</sys_updated_on><table>x_snc_createnotes_reference_to_user__sys_user__table</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-882339718</payload_hash>
+        <record_name>Reference to User (sys_user) tables</record_name>
+        <reverted_from/>
+        <source>30d48b44834fe6103e9b10c5eeaad3bf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-25 16:17:58</sys_created_on>
+        <sys_id>ca30e70883cfe6103e9b10c5eeaad35b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198426085480000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-25 16:17:58</sys_updated_on>
+        <type>Module</type>
+        <update_guid>ce30e70893cfe61043db5c38f061925a</update_guid>
+        <update_guid_history>ce30e70893cfe61043db5c38f061925a:-882339718</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-25 16:20:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>68ea172d42b04aba93c81cbcd247a5a4</sys_id>
+        <sys_metadata>0a30e70883cfe6103e9b10c5eeaad359</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reference to User (sys_user) tables</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>sys_ui_module_0a30e70883cfe6103e9b10c5eeaad359</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_0a30e70883cfe6103e9b10c5eeaad359">ca30e70883cfe6103e9b10c5eeaad35b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-25 16:20:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="70676b8083032a103e9b10c5eeaad303" label="User [sys_user]" max_length="40" name="x_snc_createnotes_user__sys_user_" type="collection"/>
+</database>

@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element label="Note" max_length="40" name="x_snc_createnotes_note" type="collection">
-        <element default="Enter notes here" label="Note" max_length="4000" name="note" type="string"/>
-        <element default="javascript:getNextObjNumberPadded();" display="true" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Number" max_length="40" name="number" type="string" use_dynamic_default="true"/>
-        <element default="New Note" label="Title" max_length="100" name="title" type="string"/>
-        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="45d5eb4c83cfe6103e9b10c5eeaad3b2" label="Note" max_length="40" name="x_snc_createnotes_note" type="collection">
+        <element label="Title" max_length="40" name="title" type="string"/>
+        <element label="Note" max_length="40" name="note" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="User" max_length="32" name="user" reference="x_snc_createnotes_user__sys_user_" type="reference"/>
         <index name="index">
             <element name="user"/>
         </index>
